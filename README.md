@@ -22,7 +22,7 @@ Install MacLockScreen
 ----------------------
 Use the following command to install This software:
 ```
-chmod 777 ls.sh
+chmod 755 ls.sh
 sudo cp ls.sh /opt/local/bin
 ```
 
